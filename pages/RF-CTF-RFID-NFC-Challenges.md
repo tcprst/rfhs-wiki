@@ -32,6 +32,7 @@ UHF RFID Modules are another potential option for integrating into your kit:
 
 Additionally there are some (currently untested) SDR based UHF RFID reader implementations:
 - https://github.com/AdamLaurie/Gen2-UHF-RFID-Reader
+- https://shop.m5stack.com/products/uhf-rfid-unit-jrd-4035
 
 # Challenges
 
